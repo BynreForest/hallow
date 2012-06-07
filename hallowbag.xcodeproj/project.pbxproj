@@ -37,20 +37,20 @@
 		D7250317158129450071E535 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		D7250319158129450071E535 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D725031B158129450071E535 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		D725031F158129450071E535 /* hallowbag-Info.plist */ = {isa = PBXFileReference; path = "hallowbag-Info.plist"; sourceTree = "<group>"; };
+		D725031F158129450071E535 /* hallowbag-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "hallowbag-Info.plist"; sourceTree = "<group>"; };
 		D7250321158129450071E535 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D7250323158129450071E535 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D7250325158129450071E535 /* hallowbag-Prefix.pch */ = {isa = PBXFileReference; path = "hallowbag-Prefix.pch"; sourceTree = "<group>"; };
-		D7250326158129450071E535 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		D7250325158129450071E535 /* hallowbag-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "hallowbag-Prefix.pch"; sourceTree = "<group>"; };
+		D7250326158129450071E535 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		D7250327158129450071E535 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		D7250329158129450071E535 /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		D7250329158129450071E535 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		D725032A158129450071E535 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		D725032D158129450071E535 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
 		D7250334158129450071E535 /* hallowbagTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hallowbagTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7250335158129450071E535 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		D725033D158129450071E535 /* hallowbagTests-Info.plist */ = {isa = PBXFileReference; path = "hallowbagTests-Info.plist"; sourceTree = "<group>"; };
+		D725033D158129450071E535 /* hallowbagTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "hallowbagTests-Info.plist"; sourceTree = "<group>"; };
 		D725033F158129450071E535 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		D7250341158129460071E535 /* hallowbagTests.h */ = {isa = PBXFileReference; path = hallowbagTests.h; sourceTree = "<group>"; };
+		D7250341158129460071E535 /* hallowbagTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = hallowbagTests.h; sourceTree = "<group>"; };
 		D7250342158129460071E535 /* hallowbagTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = hallowbagTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
