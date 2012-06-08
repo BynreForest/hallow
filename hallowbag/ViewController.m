@@ -6,6 +6,10 @@
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
+/*
+ hallow the enter point for grab bag will be this vc
+ */
+
 #import "ViewController.h"
 
 @interface ViewController ()
